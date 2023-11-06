@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: producer/go.sum
   checksum: 096d6848548b4838ca53fedbb7e4ab3f15c2709f3a94f13b6001790c9d91f9e3
+- filename: consumer/go.sum
+  checksum: 88a90cd3406bf9a88797c4e5ff25151b30a1bfb140c328fa874cecfc94f3e2d4
 version: ""
