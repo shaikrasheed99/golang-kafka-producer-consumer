@@ -22,3 +22,9 @@ services:
     build:
       context: ./producer
       dockerfile: ./Dockerfile
+
+  consumer:
+    container_name: consumer
+    build:
+      context: ./consumer
+      dockerfile: ./Dockerfile
